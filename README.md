@@ -3,6 +3,9 @@ Hi 👋 My name is Angga,
 
 I'm a computer science student with strong interest of Data Science, Machine Learning, Deep Learning, or AI in general. I also have interest in Django Framework too.
 
+Projects Portfolio:
+
+https://docs.google.com/presentation/d/1gLFqcvSvLWaQgw68TBu3GEO4lKoiUjqyD1kt1Agf1vs/edit?usp=sharing
 
 ### Socials
 
