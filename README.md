@@ -1,7 +1,7 @@
 Hi 👋 My name is Angga Wibowo
 ===========================================
 
-I'm a computer science student with strong interest in Data Science, Machine Learning, Deep Learning, or AI in general. I also have an interest in Django Framework too. With a comprehensive skill set encompassing data analysis, SQL, Python, and TensorFlow, I am well-equipped to tackle the challenges of transforming complex data into valuable insights.
+I'm a computer science fresh graduate with strong interest in Data Science, Machine Learning, Deep Learning, or AI in general. I also have an interest in Django Framework too. With a comprehensive skill set encompassing data analysis, SQL, Python, and TensorFlow/PyTorch, I am well-equipped to tackle the challenges of transforming complex data into valuable insights.
 
 * 🖥️  See my portfolio at [My Portfolio](http://docs.google.com/presentation/d/1gLFqcvSvLWaQgw68TBu3GEO4lKoiUjqyD1kt1Agf1vs/edit?usp=sharing)
 
